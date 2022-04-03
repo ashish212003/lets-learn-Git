@@ -10,5 +10,6 @@ int main()
 			cout << "Element at A[" << i
 				<< "][" << j << "]: ";
 			cout << A[i][j]<<endl;
+			cout<<"hello";
 		}
 	} return 0; }
